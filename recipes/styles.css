@@ -1,1 +1,13 @@
 /* Style sheet */
+
+*{
+    font-family: fantasy;
+    background-color: black;
+    color: white;
+}
+
+.Header{
+    font-size: 30px;
+    color: bisque;
+    background-color: maroon;
+}
